@@ -28,12 +28,12 @@ mensi@scs.unr.edu for information on availability.
 Six files are included in this release:
 
    index.html - this file
-   <a href="bend.for">BEND.FOR</a> - source code for program using dimer models
-   <a href="bend_tri.for">BEND_TRI.FOR </a>- source code for program using trimer models
-   <a href="sequence.dat">SEQUENCE.DAT</a> - sequence file containing an intrinsically bent
+   <a href="BEND.FOR">BEND.FOR</a> - source code for program using dimer models
+   <a href="BEND_TRI.FOR">BEND_TRI.FOR </a>- source code for program using trimer models
+   <a href="SEQUENCE.DAT">SEQUENCE.DAT</a> - sequence file containing an intrinsically bent
                   base sequence from kinetoplast DNA
-   <a href="angles.dat">ANGLES.DAT</a> - sample dimer angle data
-   <a href="angles_tri.dat">ANGLES_TRI.DAT</a> - sample trimer angle data
+   <a href="ANGLES.DAT">ANGLES.DAT</a> - sample dimer angle data
+   <a href="ANGLES_TRI.DAT">ANGLES_TRI.DAT</a> - sample trimer angle data
 
 ----HOW TO GET STARTED----------------------------------------------
 
